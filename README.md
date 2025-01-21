@@ -1,0 +1,1 @@
+This repository contains a simple MATLAB function that demonstrates an example of an uncommon error: an uninformative error message. The function `myFunction` checks for a negative input value and throws an error if it's encountered. The problem is that the error message lacks specifics.  The solution shows how to improve error handling for better debugging and user experience.
